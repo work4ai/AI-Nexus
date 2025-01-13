@@ -4,7 +4,7 @@
 * Basics of AI agents - [ What are AI Agents ?](https://www.ibm.com/think/topics/ai-agents)
 
 ## AI Models
-* OpenAI API - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code
+* [OpenAI API](https://platform.openai.com/) - OpenAI API serves as a bridge to OpenAI's powerful machine learning models GPT-4o, GPT-4o mini, o1 and o1-mini, allowing you to integrate cutting-edge AI capabilities into projects/applications with relative ease
 * Gopher - Gopher by DeepMind is a 280 billion parameter language model.
 OPT - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. Announcement. OPT-175B text generation hosted by Alpa.
 Bloom - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
