@@ -17,4 +17,4 @@ Stable Beluga 2 - A finetuned LLamma2 70B model
 GPT-4o Mini - Review on Altern - Advancing cost-efficient intelligence
 
 ## AI Prompat Databases
-* [ChatGPT Prompt Database](https://brightpool.notion.site/fe947b16fe894c3e8a8a19a6b81aec2c?v=9b1d189283d54b6bba80882239ecbb1a)
+* Common Prompts Repo - [ChatGPT Prompt Database](https://brightpool.notion.site/fe947b16fe894c3e8a8a19a6b81aec2c?v=9b1d189283d54b6bba80882239ecbb1a)
