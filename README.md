@@ -18,3 +18,4 @@ GPT-4o Mini - Review on Altern - Advancing cost-efficient intelligence
 
 ## AI Prompat Databases
 * Common Prompts Repo - [ChatGPT Prompt Database](https://brightpool.notion.site/fe947b16fe894c3e8a8a19a6b81aec2c?v=9b1d189283d54b6bba80882239ecbb1a)
+* Count number of tokens and characters while calling LLM API - [OpenAI Tokenizer Count](https://platform.openai.com/tokenizer)
